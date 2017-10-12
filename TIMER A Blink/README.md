@@ -1,1 +1,2 @@
 Timer A intterupts use a seperate timer to operate the functionality of the board.
+toggles LED0 (BIT0) off P1.0 based on hertz rate (Timer A) opposed to typical "i" programming based on incrimints in time.
